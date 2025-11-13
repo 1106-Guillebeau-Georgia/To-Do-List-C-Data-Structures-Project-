@@ -35,7 +35,8 @@ After compiling the program, run it from the console:
 ```
 
 Example Output:
-``` TODO APP
+``` text
+TODO APP
 1. Add task to do
 2. Complete task
 3. Display TODO list
@@ -106,15 +107,15 @@ TODO APP
 - Abstract Data Types (ADT)
 - Templates and Class Inheritance
 - Dynamic Memory Management (Pointers)
-- Arrays and Linked Lists Data Structures 
+- Arrays and Linked List Data Structures 
 - Makefile for compilation automation
 
-  ## Notes
+## Notes
   - Input validation is minimal; the program assumes the user enters valid integers for menu selections.
   - Focus of this project is on implementing the List ADT using array and linked list storage, as well as      analyzing the time complexity difference between them.
   - The main driver (`main.cpp`) was provided the instructor as part of a course assignment.  
   - All data structure implementations (`LinkedList`, `ArrayList`, `Node`, etc.) were written and debugged     by me.
  
-  ## About
+## About
   Created by Georgia Guillebeau — Computer Science & Engineering student at UNR.
   [LinkedIn](https://www.linkedin.com/in/georgia-guillebeau-3b3636285)
