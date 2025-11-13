@@ -1,7 +1,7 @@
 # To-Do List (C++ Data Structures Project)
 
 ## Overview: 
-Console-based To-Do List implemented in C++ using array and linked list data structures to demonstrate the List Abstract Data Type (ADT).
+Console-based To-Do List implemented in C++ using array and linked list data structures to demonstrate the List Abstract Data Type (ADT). This project highlights core C++ concepts including templates, class inheritance, and dynamic memory management.
 
 ---
 
